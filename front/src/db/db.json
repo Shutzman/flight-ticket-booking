@@ -1,0 +1,67 @@
+[
+  {
+    "flight_name": "Spice Jet",
+    "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+    "departure_time": "03:15",
+    "departure_date": "12/11/2024",
+    "arrival_time": "05:40",
+    "price_adult": 8400,
+    "price_baby": 8400,
+    "from": "Tel Aviv",
+    "to": "Lisbon",
+    "id": "3",
+    "seats": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "flight_name": "Spice Jet",
+    "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+    "departure_time": "03:15",
+    "departure_date": "12/11/2024",
+    "arrival_time": "05:40",
+    "price_adult": 8400,
+    "price_baby": 8400,
+    "from": "Delhi",
+    "to": "Cochin",
+    "id": "2",
+    "seats": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "flight_name": "Spice Jet",
+    "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+    "departure_time": "03:15",
+    "departure_date": "12/11/2024",
+    "arrival_time": "05:40",
+    "price_adult": 8400,
+    "price_baby": 8400,
+    "from": "Tel Aviv",
+    "to": "Cochin",
+    "id": "4",
+    "seats": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "flight_name": "Spice Jet",
+    "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+    "departure_time": "03:15",
+    "departure_date": "12/11/2024",
+    "arrival_time": "05:40",
+    "price_adult": 8400,
+    "price_baby": 8400,
+    "from": "Tel Aviv",
+    "to": "Lapland",
+    "id": "5",
+    "seats": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "flight_name": "Spice Jet",
+    "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+    "departure_time": "03:15",
+    "departure_date": "12/11/2024",
+    "arrival_time": "05:40",
+    "price_adult": 8400,
+    "price_baby": 8400,
+    "from": "Lala",
+    "to": "Dor Gay",
+    "id": "6",
+    "seats": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  }
+]

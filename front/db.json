@@ -1,0 +1,319 @@
+{
+  "users": [
+    {
+      "id": "63bc14a1-562e-411b-b1aa-631a1280961b",
+      "name": "Sreejith",
+      "email": "sreejithskumar80@gmail.com",
+      "password": "Sreejith1@"
+    }
+  ],
+  "flights": [
+    {
+      "id": 1,
+      "flight_name": "Indigo",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "00:15",
+      "arrival_time": "03:30",
+      "fare": 10000,
+      "date_diff": 0,
+      "seats": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  
+    },
+    {
+      "id": 2,
+      "flight_name": "Air India",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "02:15",
+      "arrival_time": "04:45",
+      "fare": 10500,
+      "date_diff": 0,
+      "seats": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+      "id": 3,
+      "flight_name": "Spice Jet",
+      "img": "https://1000logos.net/wp-content/uploads/2021/07/IndiGo-Logo-500x314.png",
+      "departure_time": "03:15",
+      "arrival_time": "05:40",
+      "fare": 10600,
+      "date_diff": 0,
+      "seats": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    }
+  ],
+
+  "checkout": [
+    {
+      "basic_fare": 8000,
+      "food_charge": 0,
+      "service_charge": 400,
+      "total": 8400,
+      "from": "Delhi",
+      "to": "Cochin",
+      "id": "3",
+      "no_of_passengers": "2"
+    },
+    {
+      "basic_fare": 12000,
+      "food_charge": 1200,
+      "service_charge": 600,
+      "total": 13800,
+      "from": "Delhi",
+      "to": "Cochin",
+      "id": "5",
+      "no_of_passengers": "3"
+    },
+    {
+      "basic_fare": 6400,
+      "food_charge": 800,
+      "service_charge": 320,
+      "total": 7520,
+      "from": "Delhi",
+      "to": "Cochin",
+      "id": "1",
+      "no_of_passengers": "2"
+    },
+    {
+      "basic_fare": 12600,
+      "food_charge": 800,
+      "service_charge": 630,
+      "total": 14030,
+      "from": "Delhi",
+      "to": "Cochin",
+      "id": "31",
+      "no_of_passengers": "2"
+    },
+    {
+      "basic_fare": 20800,
+      "food_charge": 800,
+      "service_charge": 1040,
+      "total": 22640,
+      "from": "Delhi",
+      "to": "Cochin",
+      "id": "6",
+      "no_of_passengers": "2"
+    }
+  ],
+  
+  "bookings": [
+    {
+      "checkoutData": {
+        "basic_fare": 8000,
+        "food_charge": 0,
+        "service_charge": 400,
+        "total": 8400,
+        "from": "Delhi",
+        "to": "Cochin",
+        "id": "3",
+        "no_of_passengers": "2"
+      },
+      "userData": {
+        "status": false
+      },
+      "id": 1
+    },
+    {
+      "checkoutData": {
+        "basic_fare": 8000,
+        "food_charge": 0,
+        "service_charge": 400,
+        "total": 8400,
+        "from": "Delhi",
+        "to": "Cochin",
+        "id": "3",
+        "no_of_passengers": "2"
+      },
+      "userData": {
+        "status": false
+      },
+      "id": 2
+    },
+    {
+      "checkoutData": {
+        "basic_fare": 8000,
+        "food_charge": 0,
+        "service_charge": 400,
+        "total": 8400,
+        "from": "Delhi",
+        "to": "Cochin",
+        "id": "3",
+        "no_of_passengers": "2"
+      },
+      "userData": {
+        "status": false
+      },
+      "id": 3
+    },
+    {
+      "checkoutData": {
+        "basic_fare": 8000,
+        "food_charge": 0,
+        "service_charge": 400,
+        "total": 8400,
+        "from": "Delhi",
+        "to": "Cochin",
+        "id": "3",
+        "no_of_passengers": "2"
+      },
+      "userData": {
+        "status": false
+      },
+      "id": 4
+    },
+    {
+      "checkoutData": {
+        "basic_fare": 12000,
+        "food_charge": 1200,
+        "service_charge": 600,
+        "total": 13800,
+        "from": "Delhi",
+        "to": "Cochin",
+        "id": "5",
+        "no_of_passengers": "3"
+      },
+      "userData": {
+        "status": true,
+        "id": "63bc14a1-562e-411b-b1aa-631a1280961b",
+        "name": "Sreejith",
+        "email": "sreejithskumar80@gmail.com",
+        "password": "Sreejith1@"
+      },
+      "id": 5
+    },
+    {
+      "checkoutData": {
+        "basic_fare": 12000,
+        "food_charge": 1200,
+        "service_charge": 600,
+        "total": 13800,
+        "from": "Delhi",
+        "to": "Cochin",
+        "id": "5",
+        "no_of_passengers": "3"
+      },
+      "userData": {
+        "status": true,
+        "id": "63bc14a1-562e-411b-b1aa-631a1280961b",
+        "name": "Sreejith",
+        "email": "sreejithskumar80@gmail.com",
+        "password": "Sreejith1@"
+      },
+      "id": 6
+    },
+    {
+      "checkoutData": {
+        "basic_fare": 12000,
+        "food_charge": 1200,
+        "service_charge": 600,
+        "total": 13800,
+        "from": "Delhi",
+        "to": "Cochin",
+        "id": "5",
+        "no_of_passengers": "3"
+      },
+      "userData": {
+        "status": true,
+        "id": "63bc14a1-562e-411b-b1aa-631a1280961b",
+        "name": "Sreejith",
+        "email": "sreejithskumar80@gmail.com",
+        "password": "Sreejith1@"
+      },
+      "id": 7
+    },
+    {
+      "checkoutData": {
+        "basic_fare": 12000,
+        "food_charge": 1200,
+        "service_charge": 600,
+        "total": 13800,
+        "from": "Delhi",
+        "to": "Cochin",
+        "id": "5",
+        "no_of_passengers": "3"
+      },
+      "userData": {
+        "status": true,
+        "id": "63bc14a1-562e-411b-b1aa-631a1280961b",
+        "name": "Sreejith",
+        "email": "sreejithskumar80@gmail.com",
+        "password": "Sreejith1@"
+      },
+      "id": 8
+    },
+    {
+      "checkoutData": {
+        "basic_fare": 6400,
+        "food_charge": 800,
+        "service_charge": 320,
+        "total": 7520,
+        "from": "Delhi",
+        "to": "Cochin",
+        "id": "1",
+        "no_of_passengers": "2"
+      },
+      "userData": {
+        "status": true,
+        "id": "63bc14a1-562e-411b-b1aa-631a1280961b",
+        "name": "Sreejith",
+        "email": "sreejithskumar80@gmail.com",
+        "password": "Sreejith1@"
+      },
+      "id": 9
+    },
+    {
+      "checkoutData": {
+        "basic_fare": 12600,
+        "food_charge": 800,
+        "service_charge": 630,
+        "total": 14030,
+        "from": "Delhi",
+        "to": "Cochin",
+        "id": "31",
+        "no_of_passengers": "2"
+      },
+      "userData": {
+        "status": true,
+        "id": "63bc14a1-562e-411b-b1aa-631a1280961b",
+        "name": "Sreejith",
+        "email": "sreejithskumar80@gmail.com",
+        "password": "Sreejith1@"
+      },
+      "id": 10
+    },
+    {
+      "checkoutData": {
+        "basic_fare": 20800,
+        "food_charge": 800,
+        "service_charge": 1040,
+        "total": 22640,
+        "from": "Delhi",
+        "to": "Cochin",
+        "id": "6",
+        "no_of_passengers": "2"
+      },
+      "userData": {
+        "status": true,
+        "id": "63bc14a1-562e-411b-b1aa-631a1280961b",
+        "name": "Sreejith",
+        "email": "sreejithskumar80@gmail.com",
+        "password": "Sreejith1@"
+      },
+      "id": 11
+    },
+    {
+      "checkoutData": {
+        "basic_fare": 20800,
+        "food_charge": 800,
+        "service_charge": 1040,
+        "total": 22640,
+        "from": "Delhi",
+        "to": "Cochin",
+        "id": "6",
+        "no_of_passengers": "2"
+      },
+      "userData": {
+        "status": false
+      },
+      "id": 12
+    }
+  ]
+}
